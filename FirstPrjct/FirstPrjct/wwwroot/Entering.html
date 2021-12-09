@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>כניסת משתמש</title>
+    <script src="./scripts/Welcome.js"></script>
+    <link href="/css/Welcome.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <img src="../image/Welcome.jpg">
+    </div>
+    <br />
+    <div id="getUser">
+        <!--<label id="enter">כניסה</label>-->
+        <br />
+        <label>:סיסמא</label>
+        <input type="password" id="UserPass" />
+        <br />
+        <label>:מייל</label>
+        <input type="email" id="UserMail" />
+        
+
+        <br /><br />
+        <input type="button" class="myButton" onclick="login()" value="התחברות" />
+        <br /><br />
+
+        <input type="button" class="myButton" onclick="addUser()" value="משתמש חדש" />
+    </div>
+    <br />
+    <div id="newUser" style="display:none">
+        <link href="/css/Welcome.css" rel="stylesheet" />
+        <label class="myLabel">טופס רישום</label>
+        <br /><br />
+        <label>:שם משתמש</label>
+        <input type="text" id="NewUserName" />   
+        <br />
+        <label>:סיסמא</label>
+        <input type="password" id="UserPassword" />
+        <br />
+        <label>:מייל</label>
+        <input type="email" id="NewUserMail" />
+        <br />
+        <input type="button" class="myButton" value="רישום" onclick="addNewUser()" />
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\Ent\obj\Debug\netcoreapp3.1\Ent.pdb

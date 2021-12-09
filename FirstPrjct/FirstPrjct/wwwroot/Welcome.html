@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <script src="./scripts/Welcome.js"></script>
+    <title>עדכון פרטי משתמש</title>
+    <link href="/css/Welcome.css" rel="stylesheet" />
+</head>
+<body onload="wellcom()" style="background-image:url('../Image/AmericanDoll.jpg');background-size:1300px;">
+    <div id="hi"></div>
+    <div>
+        <a href="../Products.html">לחץ כאן להתחלת קניה באתר</a>
+        <br /><br />
+        <button onclick="forupdate()" class="myButton" value="uptate datails">עידכון פרטים</button>
+
+
+    </div>
+    <div style="display:none" id="up">
+        <label class="myLabel">עידכון פרטים</label>
+        <br /><br />
+        <label>:סיסמא</label>
+        <input type="password" id="upUserPass" />
+        <br />
+        <label>:שם משתמש</label>
+        <input type="text" id="upUserName" />
+        <br />
+        <label>:מייל</label>
+        <input type="email" id="upUserMail" />
+        <br /><br />
+        <input type="button" class="myButton" value="עדכן" onclick="update()" />
+    </div>
+</body>
+</html>

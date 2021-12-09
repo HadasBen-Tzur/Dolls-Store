@@ -1,0 +1,70 @@
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\MichalGav\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\User\Downloads\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\User\Desktop\תרגילים\web-api\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\jimmy\Desktop\יד\מסלול\נוסבכר\prjct1\FirstProject\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\BL\bin\Debug\netcoreapp3.1\DL.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\bin\Debug\netcoreapp3.1\Ent.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\bin\Debug\netcoreapp3.1\Ent.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\user\Documents\מסלול\נוסבכר -WEB API\מעבדות\הפרויקט\FirstPrjct\DL\obj\Debug\netcoreapp3.1\DL.pdb
